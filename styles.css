@@ -20,11 +20,4 @@ img {
 .intro {
   color: rgb(158, 87, 49);
   font-family: "Comic Neue", cursive;
-  position: ;
-}
-
-.footer {
-  position: fixed;
-  bottom: 0;
-  width: 100%;
 }
