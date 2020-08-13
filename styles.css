@@ -1,6 +1,30 @@
 body {
   background-color: rgb(183, 234, 255);
 }
+
+img {
+  position: flex;
+  justify-items: center;
+}
+.center_img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.center_text {
+  text-align: center;
+}
+
 .intro {
   color: rgb(158, 87, 49);
+  font-family: "Comic Neue", cursive;
+  position: ;
+}
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
 }
