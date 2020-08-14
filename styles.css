@@ -3,6 +3,7 @@ body {
 }
 
 img {
+  border: 10px solid rgb(130, 182, 229);
   position: flex;
   justify-items: center;
 }
